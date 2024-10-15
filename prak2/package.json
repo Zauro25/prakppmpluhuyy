@@ -1,0 +1,22 @@
+{
+  "name": "prak2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.21.1"
+  }
+}
